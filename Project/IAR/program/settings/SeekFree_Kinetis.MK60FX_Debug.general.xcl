@@ -1,0 +1,17 @@
+"D:\IAR\arm\bin\armproc.dll" 
+
+"D:\IAR\arm\bin\armjlink2.dll" 
+
+"D:\飞思卡尔智能车\摄像头\三轮\Project\IAR\program\MK60FX_Debug\Exe\SeekFree_Kinetis.out" 
+
+--plugin="D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="D:\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="D:\IAR\arm\config\flashloader\NXP\FlashK60Fxxx128K.board" 
+
+
+
+
